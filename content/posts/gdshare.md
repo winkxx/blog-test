@@ -29,22 +29,5 @@ description: "GD分享网站搭建"
 
 1. 有个cloudflare的号，创建一个worker
 2. 打开template.js，根据提示修改变量：
-
-```javascript
-const CONFIG = {
-    PASSKEY: "this is your passkey", // 管理员网页登录密钥，请自行修改，尽量复杂
-    HASHKEY: "this is your hash key", // 用于校验生成的下载链接和分享链接，请自行修改，尽量复杂。修改后之前生成的下载和分享链接都会失效
-    RETRY_LIMIT: 5, // 有时调用 google drive api 读取目录时会报错，这里设置最多允许重试的次数
-    PAGESIZE: 100, // 读取列表的单页对象数，官方限制最大 1000
-    AUTH: {
-        client_id: "insert_your_client_id", // 这三项是你的google帐号个人授权信息，和goindex相同
-        client_secret: "insert_your_client_secret", // 同上必填
-        refresh_token: "insert_your_refresh_token", // 同上必填
-        expires: 0,
-        access_token: "" // 可不填
-    }
-}
-```
-
 3. 变量设置完成后，将文件整体复制到 cloudflare worker 中
 4. 保存部署，体验！
