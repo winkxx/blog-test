@@ -1,11 +1,11 @@
 ---
-title: GDshare
-date: 2021-05-021
+title: Blog：GDshare
+date: 2021-05-02
 published: true
 slug: blog
 tags: ['blog', 'Tech']
 canonical_url: false
-description: "GDShare"
+description: "GDshare"
 
 ---
 # 项目地址
