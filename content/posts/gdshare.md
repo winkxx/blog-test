@@ -1,3 +1,13 @@
+---
+title: GDshare搭建
+date: 2021-05-021
+published: true
+slug: blog
+tags: ['blog', 'Tech']
+canonical_url: false
+description: "GD分享网站搭建"
+
+---
 # 项目地址
 
 [iwestlin/gdshare (github.com)](https://github.com/iwestlin/gdshare)
