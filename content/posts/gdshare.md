@@ -1,6 +1,6 @@
 ---
-title: Blog：GDshare
-date: 2021-05-02
+title: GDshare
+date: 2021-05-03
 published: true
 slug: blog
 tags: ['blog', 'Tech']
