@@ -12,17 +12,7 @@ description: "GD分享网站搭建"
 
 [iwestlin/gdshare (github.com)](https://github.com/iwestlin/gdshare)
 
-## 事项
 
-1. 没有团队盘怎么办？找找大佬？虽然我也有(小店售卖的名额)，但资源那部分都是别人团队盘搬运的。
-2. 知道你们又不打算搭建，只想白嫖。所以~~~~
-   **我搭建了一个给你们嫖:[GDshare](https://gdshare.xxr99.workers.dev/)密码为wink**
-   **1. 使用？先分享，再去提取，然后再提取下载链接**
-   **2. 外部直接调用好像有点问题，建议复制下载链接，再手动导入外部播放器，或者直接下载也OK的**
-
-## 截图
-
-![image.png](https://b3logfile.com/file/2021/07/image-ec247bb7.png)
 
 ## 介绍
 
