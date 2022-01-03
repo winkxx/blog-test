@@ -28,7 +28,7 @@ description: "GD分享网站搭建"
 ## 搭建方法
 
 1. 有个cloudflare的号，创建一个worker
-2. 打开[template.js](./template.js)，根据提示修改变量：
+2. 打开template.js，根据提示修改变量：
 
 ```javascript
 const CONFIG = {
