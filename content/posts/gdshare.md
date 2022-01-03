@@ -46,5 +46,5 @@ const CONFIG = {
 }
 ```
 
-3. 变量设置完成后，将 `template.js` 整体复制到 cloudflare worker 中
+3. 变量设置完成后，将文件整体复制到 cloudflare worker 中
 4. 保存部署，体验！
